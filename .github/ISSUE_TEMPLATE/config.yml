@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Vulnerabilidade de Segurança
+    url: https://github.com/HabilitaGO/habilitago/security/advisories/new
+    about: Reporte vulnerabilidades de forma privada — nunca em issues públicas.
+  - name: Suporte / Dúvidas
+    url: mailto:contato@habilitago.com
+    about: Para suporte geral, entre em contato pelo e-mail.
+  - name: Parcerias e Investimento
+    url: mailto:pedro.amigoos@gmail.com
+    about: Para parcerias estratégicas e oportunidades de investimento.
